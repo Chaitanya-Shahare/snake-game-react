@@ -1,5 +1,6 @@
 # Snake Game React
 
+Live Demo: https://snake-game-react-beryl.vercel.app/
 
 https://github.com/user-attachments/assets/8b81efc2-2cc5-41db-83d6-9c567fbed2b1
 
